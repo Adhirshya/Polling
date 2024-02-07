@@ -1,0 +1,18 @@
+/* PollResults.css */
+.poll-results {
+    margin-top: 20px;
+  }
+  
+  .poll-results h2 {
+    margin-bottom: 10px;
+  }
+  
+  .poll-results ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .poll-results li {
+    margin-bottom: 5px;
+  }
+  
